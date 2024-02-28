@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Daniel Gomon
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1 April 1996
     - name: Languages
-      value: English, German
+      value: Dutch, English, Russian
 
 - title: Education
   type: time_table
