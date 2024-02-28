@@ -16,6 +16,18 @@
 [![Docker Image Size](https://img.shields.io/docker/image-size/amirpourmand/al-folio?sort=date&label=docker%20image%20size&color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
 [![Docker Pulls](https://img.shields.io/docker/pulls/amirpourmand/al-folio?color=blueviolet)](https://hub.docker.com/r/amirpourmand/al-folio)
 
+## User guide for myself.
+
+Installation
+- Make sure [Ruby DevKit](https://rubyinstaller.org/downloads/) is installed on your PC.
+- Open terminal (cmd) anywhere and run "gem install Jekyll bundler"
+
+Local Deployment
+- Navigate to your project directory in the terminal.
+- Type "bundle install" (installs ruby gems)
+- Type "bundle exec jekyll serve" (serves the website on a local host)
+- Use the IP address displayed in the terminal to check what it looks like.
+
 A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
 If you like the theme, give it a star!
 
