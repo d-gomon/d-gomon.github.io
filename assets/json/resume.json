@@ -24,38 +24,131 @@
   },
   "work": [
     {
-      "name": "Mathematical Institute",
-      "position": "Leiden University",
+      "name": "Mathematical Institute, Leiden University",
+      "position": "PhD Student",
       "url": "https://www.universiteitleiden.nl/en",
       "startDate": "2021-08-17",
       "endDate": "2025-08-17",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "Biostatistics, with a focus on:",
       "highlights": [
-        "Relativity"
+        "Survival Analysis",
+        "Changepoint detection",
+        "Dynamic prediction",
+        "Multi-state modelling"
+      ]
+    },
+    {
+      "name": "Mathematical Institute, Leiden University",
+      "position": "Teaching Assistant",
+      "url": "https://www.universiteitleiden.nl/en",
+      "startDate": "2015-09-01",
+      "endDate": "2021-08-17",
+      "summary": "Organized seminars and graded homework assignments for:",
+      "highlights": [
+        "Calculus I/II",
+        "Probability Theory",
+        "Introduction to Statistics",
+        "Mathematical Modelling",
+        "Linear Algebra"
       ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "Badminton Club Veglo",
+      "position": "Assistant youth trainer",
+      "url": "https://www.veglo.nl",
+      "startDate": "2023-09-01",
+      "endDate": "",
+      "summary": "Assistant trainer for youth players (ages 12-18)",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Badminton Student Club, Leiden University",
+      "position": "Treasurer",
+      "url": "https://www.bscleiden.nl",
+      "startDate": "2018-09-01",
+      "endDate": "2021-09-01",
+      "summary": "Financial management of the club, as well as some additional tasks:",
+      "highlights": [
+        "Organizing competitive teams",
+        "Recruitment of members",
+        "Website development"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Leiden University, Leiden, the Netherlands",
+      "url": "https://www.universiteitleiden.nl/en",
+      "area": "",
+      "studyType": "MSc, Mathematics",
+      "startDate": "2017-09-01",
+      "endDate": "2021-09-01",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Thesis: 'Continuous time control charts: generalizations and an application to the Dutch Arthoplasty Register'"
+      ]
+    },
+    {
+      "institution": "Leiden University, Leiden, the Netherlands",
+      "url": "https://www.universiteitleiden.nl/en",
+      "area": "",
+      "studyType": "MSc, Statistical Science for the Life and Behavioural sciences",
+      "startDate": "2017-09-01",
+      "endDate": "2021-09-01",
+      "score": "",
+      "courses": [
+        "Thesis: 'Continuous time control charts: generalizations and an application to the Dutch Arthoplasty Register'"
+      ]
+    },
+    {
+      "institution": "Leiden University, Leiden, the Netherlands",
+      "url": "https://www.universiteitleiden.nl/en",
+      "area": "",
+      "studyType": "BSc, Mathematics",
+      "startDate": "2013-09-01",
+      "endDate": "2017-09-01",
+      "score": "",
+      "courses": [
+        "Thesis: 'Horseshoe Prior: robustness against non-normal deviations'"
+      ]
+    },
+    {
+      "institution": "Leiden University, Leiden, the Netherlands",
+      "url": "https://www.universiteitleiden.nl/en",
+      "area": "",
+      "studyType": "BSc, Astronomy",
+      "startDate": "2013-09-01",
+      "endDate": "2017-09-01",
+      "score": "",
+      "courses": [
+        "Thesis: 'Horseshoe Prior: robustness against non-normal deviations'"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Best Presentation",
+      "date": "2023-09-15",
+      "awarder": "Sandra Schnelle",
+      "url": "https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/msaim/veranstaltungen-tagungen/safjr/",
+      "summary": "Awarded at the 9th Survival Analysis for Junior Researchers conference in Guenzburg (Germany)."
+    },
+    {
+      "title": "Best Student Presentation",
+      "date": "2022-07-15",
+      "awarder": "International Biometric Society",
+      "url": "https://www.ibc2022.org/home",
+      "summary": "Awarded at the 31st International Biometric Conference in Riga (Latvia)."
+    },
+    {
+      "title": "Best Thesis in Applied Math",
+      "date": "2021-09-03",
+      "awarder": "Platform Wiskunde Nederland",
+      "url": "https://platformwiskunde.nl/2021/09/03/best-thesis-in-applied-math-award-2021-for-daniel-gomon/",
+      "summary": "Awarded for the MSc thesis titled 'Continuous time control charts: generalizations and an application to the Dutch Arthoplasty Register'"
     }
   ],
   "certificates": [],
@@ -63,12 +156,20 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Dutch",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Russian",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Conversational level"
     }
   ],
   "interests": [],
